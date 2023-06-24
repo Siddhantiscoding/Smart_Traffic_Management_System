@@ -22,7 +22,7 @@ Yash Jariwala - [yash.jariwala1498@gmail.com](mailto:yash.jariwala1498@gmail.com
 
 #### Step 2 : Detection of Empty Space.
 
-<div align="center"><img src="https://github.com/Siddhantiscoding/Smart_Traffic_Management_System/blob/main/Images/Output_Image1.png" width="600" height="350"></div>
+<div align="center"><img src="https://github.com/Siddhantiscoding/Smart_Traffic_Management_System/assets/Images/Output_Image1.png" width="600" height="350"></div>
 
 ### Step 3 :  Timing calculation and  Raspberry pi processing and forwading the signal to GPIO pins
 
