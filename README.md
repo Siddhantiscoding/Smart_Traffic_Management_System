@@ -6,3 +6,12 @@ The purpose of this project is to design and implement a Smart Traffic Managemen
 
 
 <div align="center"><img src="https://github.com/Siddhantiscoding/Smart_Traffic_Management_System/assets/98279769/1d3458c3-6340-425c-8ccf-5ef281ec3191" width="600" height="350"></div>
+
+
+## Contributors 
+
+
+- [siddhantdawkhare4488@gmail.com](mailto:siddhantdawkhare4488@gmail.com)
+- [jadhavamrish6@gmail.com](mailto:jadhavamrish6@gmail.com)
+- [yash.jariwala1498@gmail.com](mailto:yash.jariwala1498@gmail.com)
+
