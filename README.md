@@ -3,4 +3,4 @@ The purpose of this project is to design and implement a Smart Traffic Managemen
 
 Block Diagram
 
-![BD](https://github.com/Siddhantiscoding/Smart_Traffic_Management_System/assets/98279769/6952cd3d-d8f1-480b-b027-10b6edab70e0)
+<img src="Images/BD.png" alt="None" width="200" height="200">
