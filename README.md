@@ -5,4 +5,4 @@ Block Diagram
 
 ![BD](https://github.com/Siddhantiscoding/Smart_Traffic_Management_System/assets/98279769/1d3458c3-6340-425c-8ccf-5ef281ec3191)
 
-<img src="https://github.com/Siddhantiscoding/Smart_Traffic_Management_System/assets/98279769/1d3458c3-6340-425c-8ccf-5ef281ec3191" width="400" height="400">
+<img src="https://github.com/Siddhantiscoding/Smart_Traffic_Management_System/assets/98279769/1d3458c3-6340-425c-8ccf-5ef281ec3191" width="600" height="350">
