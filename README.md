@@ -5,7 +5,7 @@ The purpose of this project is to design and implement a Smart Traffic Managemen
 
 
 
-<div align="center"><img src="https://github.com/Siddhantiscoding/Smart_Traffic_Management_System/assets/98279769/1d3458c3-6340-425c-8ccf-5ef281ec3191" width="600" height="350"></div>
+<p align="center"><img src="https://github.com/Siddhantiscoding/Smart_Traffic_Management_System/assets/98279769/1d3458c3-6340-425c-8ccf-5ef281ec3191" width="600" height="350"></p>
 
 
 ## Contributors 
@@ -25,9 +25,9 @@ Yash Jariwala - [yash.jariwala1498@gmail.com](mailto:yash.jariwala1498@gmail.com
 
 <div align="center"><img src="https://github.com/Siddhantiscoding/Smart_Traffic_Management_System/blob/36817820c31df4031f6b589d31d0faccc1e67dec" width="600" height="350"></div>
 
-### Step 3 :  Timing calculation and  Raspberry pi processing and forwading the signal to GPIO pins
+#### Step 3 :  Timing calculation and  Raspberry pi processing and forwading the signal to GPIO pins
 
-### Step 4 : Turning ON GREEN LED based on received value and sent signal back to Raspberry Pi for next cycle.
+#### Step 4 : Turning ON GREEN LED based on received value and sent signal back to Raspberry Pi for next cycle.
 
 ## Acknowledgement
 
